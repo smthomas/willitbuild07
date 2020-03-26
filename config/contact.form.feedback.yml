@@ -1,4 +1,4 @@
-uuid: d2f7658e-d758-4e16-867b-c4332ebf6c84
+uuid: c2607923-20f2-41d1-90c3-243aed1be712
 langcode: en
 status: true
 dependencies: {  }
@@ -7,7 +7,7 @@ _core:
 id: feedback
 label: 'Website feedback'
 recipients:
-  - shane@gatsbyjs.com
+  - shane@thirdandgrove.com
 reply: ''
 weight: 0
 message: 'Your message has been sent.'

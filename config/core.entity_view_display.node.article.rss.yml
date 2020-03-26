@@ -1,4 +1,4 @@
-uuid: 3111b0db-5623-46c4-abfb-05550dc1a8db
+uuid: 1c0af8c3-9b27-49ee-8a0c-63cf33b211ce
 langcode: en
 status: true
 dependencies:
@@ -7,6 +7,7 @@ dependencies:
     - field.field.node.article.body
     - field.field.node.article.comment
     - field.field.node.article.field_image
+    - field.field.node.article.field_public_image_url
     - field.field.node.article.field_tags
     - node.type.article
   module:
@@ -25,4 +26,5 @@ hidden:
   body: true
   comment: true
   field_image: true
+  field_public_image_url: true
   field_tags: true
