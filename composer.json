@@ -19,6 +19,7 @@
         "drupal/core-composer-scaffold": "^8.8.1",
         "drupal/core-recommended": "^8.8",
         "drupal/devel": "^2.1",
+        "drupal/gatsby": "1.x-dev",
         "drupal/jsonapi_extras": "^3.14",
         "drupal/views_bulk_operations": "^3.6",
         "drush-ops/behat-drush-endpoint": "^9.3",

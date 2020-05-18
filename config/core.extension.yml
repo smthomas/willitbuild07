@@ -49,6 +49,8 @@ module:
   willitbuild_dataloader: 0
   menu_link_content: 1
   views: 10
+  gatsby: 100
+  gatsby_instantpreview: 100
   standard: 1000
 theme:
   stable: 0
